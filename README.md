@@ -3,7 +3,6 @@
 Thank you for participating in the technical interview assessment! This assessment is designed to test your skill set for feature design and bug fixes in the following areas:
 
 * Code quality
-* User interface design
 * Ability to understand existing code
 * Communication (either in questions if they come up, comments, or commit messages)
 
@@ -12,8 +11,7 @@ Thank you for participating in the technical interview assessment! This assessme
 Your assessment involves a fairly simple application: A calculator. This calculator performs all of its operations server side and returns the results through an API layer within the application.
 
 ### Requirements to Run:
-* Visual Studio 2019 (Community)
-* SQLite Database Browser (one option: [https://sqlitebrowser.org](https://sqlitebrowser.org/))
+* Visual Studio 2019 (Community) [https://visualstudio.microsoft.com/vs/community/](https://visualstudio.microsoft.com/vs/community/)
 
 ### Commit Message Requirements
 Your commit messages are your own and should be written in a way that you think is appropriate, but please include a reference to the feature, bug, or extra credit that is related to your commit message.
@@ -24,7 +22,7 @@ This is designed to be a quick project that should take no longer than an aftern
 
 ### Upon Completion of Project
 
-If you have completed making all of your changes and have tested them, please upload your final branch of code into a GitLab repository under your account, and then email your interviewer a link to the repository.
+Follow the steps provided in the **Final Task** listed below.
 
 ## The Assessment
 

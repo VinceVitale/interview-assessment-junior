@@ -1,6 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
 using TechnicalChallengeApp.BusinessLogic.Calculation;
 using TechnicalChallengeApp.BusinessLogic.Session;
 using TechnicalChallengeApp.Model.Calculation;

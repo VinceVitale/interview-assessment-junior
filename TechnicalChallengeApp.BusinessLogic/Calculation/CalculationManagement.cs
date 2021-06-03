@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using TechnicalChallengeApp.Model.Calculation;
 using TechnicalChallengeApp.Model.Global;
 
@@ -55,6 +55,7 @@ namespace TechnicalChallengeApp.BusinessLogic.Calculation
                         apiResponse.IsSuccess = false;
                         apiResponse.Message = "You cannot divide by zero";
                     }
+
                     break;
             }
 

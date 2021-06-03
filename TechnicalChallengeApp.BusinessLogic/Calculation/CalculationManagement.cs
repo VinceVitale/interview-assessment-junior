@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using TechnicalChallengeApp.Model.Calculation;
 using TechnicalChallengeApp.Model.Global;
 
@@ -58,6 +58,9 @@ namespace TechnicalChallengeApp.BusinessLogic.Calculation
 
                     break;
             }
+
+            // Sets the calculated total value
+            apiResponse.Data.Total = totalValue;
 
             return apiResponse;
         }

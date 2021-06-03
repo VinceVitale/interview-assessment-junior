@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# SA1625: Element documentation should not be copied and pasted
+dotnet_diagnostic.SA1625.severity = none
